@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
-  <a href="mailto:raulcamargopenna@gmail.com"><img class="gb_Kc" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" srcset="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r5.png 2x             ,https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png 1x" alt aria-hidden="true" role="presentation" style="width:109px;height:40px">
+  <a href="mailto:raulcamargopenna@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" srcset="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r5.png 2x,https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png 1x" alt aria-hidden="true" role="presentation" style="width:109px;height:40px">
   </a>
-  <a href="https://www.linkedin.com/in/raul-camargo-teixeira-penna-6718121b9/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="256" height="" alt="Linkedin free icon" title="Linkedin free icon" style="width:40px;height:40px">
+  <a href="https://www.linkedin.com/in/raul-camargo-teixeira-penna-6718121b9/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="256" height="" alt="Linkedin free icon" title="Linkedin free icon" style="width:40px;height:40px">
   </a>
 </div>
