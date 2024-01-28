@@ -33,3 +33,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/raul-camargo-teixeira-penna-6718121b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="256" height="50" alt="Meu linkedin" title="Meu linkedin">
   </a>
 </div>
+
+![Snake animation](https://github.com/RaulCamargoPenna/RaulCamargoPenna/blob/output/github-contribution-grid-snake.svg)
