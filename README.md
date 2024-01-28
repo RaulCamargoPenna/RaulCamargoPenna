@@ -2,10 +2,10 @@
 
 ## Olá, espero que esteja bem! Eu sou o Raul Camargo
 
-- 👀 Eu sou interessado em inovações e criações de solução para empresas ...
-- 🌱 Atualmente faço desenvolvimento principalmente em Python (django) e estudo JavaScript ...
-- 💞️ Estou procurando oportunidades de aplicar meus conhecimentos em Django ...
-- 📫 Para me contatar: raulcamargopenna@gmail.com ...
+- 👀 Eu sou interessado em inovações e criações de soluções para empresas;
+- 🌱 Atualmente faço desenvolvimento principalmente em Python (django) e estudo JavaScript;
+- 💞️ Estou procurando oportunidades de aplicar meus conhecimentos em Django;
+- 📫 Para me contatar: raulcamargopenna@gmail.com
 
 
 <!---
